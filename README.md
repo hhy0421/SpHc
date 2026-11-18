@@ -4,7 +4,11 @@ Linux x86-64 executables for multi-FPGA partitioning and hardware cabling. This 
 
 ## Download
 
-Download [SpHc-linux-x86_64-20261118.tar.gz](https://github.com/hhy0421/SpHc/releases/download/v2026.11.18/SpHc-linux-x86_64-20261118.tar.gz) from [Releases](https://github.com/hhy0421/SpHc/releases).
+The archive is stored in this repository:
+
+[`dist/SpHc-linux-x86_64-20261118.tar.gz`](dist/SpHc-linux-x86_64-20261118.tar.gz)
+
+Downloading this repository as a ZIP includes the archive as well, so a single repository download provides everything needed.
 
 ## Requirements
 
@@ -15,7 +19,7 @@ Download [SpHc-linux-x86_64-20261118.tar.gz](https://github.com/hhy0421/SpHc/rel
 ## Run
 
 ```bash
-tar -xzf SpHc-linux-x86_64-20261118.tar.gz
+tar -xzf dist/SpHc-linux-x86_64-20261118.tar.gz
 cd SpHc-linux-x86_64-20261118
 sha256sum -c SHA256SUMS
 
