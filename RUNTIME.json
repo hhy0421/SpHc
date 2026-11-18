@@ -1,0 +1,10 @@
+{
+  "sphc_main": {
+    "glibc": "GLIBC_2.38",
+    "libstdcxx": "GLIBCXX_3.4.32"
+  },
+  "sphc_refine_main": {
+    "glibc": "GLIBC_2.38",
+    "libstdcxx": "GLIBCXX_3.4.32"
+  }
+}
